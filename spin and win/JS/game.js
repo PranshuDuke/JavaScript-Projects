@@ -21,10 +21,10 @@ let config = {
 
 function preload(){
     //load object, load some images
-    this.load.image('background','C:/Users/DELL/Desktop/spin and win/Assets/back.jpg');
-    this.load.image('wheel','C:/Users/DELL/Desktop/spin and win/Assets/wheel.png');
-    this.load.image('pin','C:/Users/DELL/Desktop/spin and win/Assets/pin.png');
-    this.load.image('stand','C:/Users/DELL/Desktop/spin and win/Assets/stand.png');
+    this.load.image('background','C:/Users/DELL/Desktop/JavaScript Project/spin and win/Assets/back.jpg');
+    this.load.image('wheel','C:/Users/DELL/Desktop/JavaScript Project/spin and win/Assets/wheel.png');
+    this.load.image('pin','C:/Users/DELL/Desktop/JavaScript Project/spin and win/Assets/pin.png');
+    this.load.image('stand','C:/Users/DELL/Desktop/JavaScript Project/spin and win/Assets/stand.png');
 }
 
 function create(){
